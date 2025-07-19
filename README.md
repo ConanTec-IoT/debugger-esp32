@@ -6,6 +6,9 @@ Este repositório apresenta um exemplo prático e direto de como utilizar a plac
 
 O exemplo consiste em um simples **blink** utilizando o LED onboard da placa, com o código desenvolvido no ambiente **PlatformIO**.
 
+> [!IMPORTANT]
+> Certifique-se de instalar os drivers da placa ESP-Prog antes de iniciar o passo a passo. na seção links utéis há algumas sugestões de vídeos que mostram como fazer isso.
+
 ---
 
 ## 🔧 Ligações ESP32 ↔ ESP-Prog (JTAG)
